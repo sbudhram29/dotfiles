@@ -1,0 +1,7 @@
+"*":
+  editor:
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "a48397c5-41e8-eb71-22af-01f8b21bea24"
+  welcome:
+    showOnStartup: false
